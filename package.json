@@ -57,7 +57,7 @@
     "webpack-cleanup-plugin": "^0.5.1",
     "webpack-cli": "^3.3.0",
     "webpack-dashboard": "^3.0.3",
-    "webpack-dev-server": "^3.3.1"
+    "webpack-dev-server": "^5.2.1"
   },
   "engines": {
     "node": "10.15.2"
